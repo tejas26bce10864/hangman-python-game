@@ -14,7 +14,7 @@ A command-line interface (CLI) implementation of the classic Hangman game writte
 ## Setup and Execution
 1. Clone the repository to your local machine:
    ```bash
-   git clone [https://github.com/tejas26bce10864/hangman-python-game.git](https://github.com/tejas26bce10864/hangman-python-game.git)
+   git clone [https://github.com/tejas26bce10864/hangman-python-game.git] OR (https://github.com/tejas26bce10864/hangman-python-game.git)
    1- Navigate into the project directory:
    Bash
    cd hangman-python-game
