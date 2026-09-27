@@ -4,7 +4,7 @@ A command-line interface (CLI) implementation of the classic Hangman game writte
 -'hangman.py' - Main application logic and terminal UI.
 
 -'nouns.txt' - Text dataset containing single words for Word Mode.
-- 'sentences.txt' - Text dataset containing full sentences for Sentence Mode.
+-'sentences.txt' - Text dataset containing full sentences for Sentence Mode.
 
 ## Requirements & Prerequisites
 - Python 3.14.7 installed on your system.
